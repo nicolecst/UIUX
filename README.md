@@ -5,6 +5,9 @@ Create a sign up page, modal, form, or app screen related to signing up for some
 ### Design Thinking Process:
 'ParkNshop'
 Goals: 
+
 --> designing a signup page for an e-commerce platform
+
 --> recording their purchases and points earned
+
 Audience: parkNshop customers
